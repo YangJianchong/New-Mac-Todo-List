@@ -44,7 +44,7 @@ First things to do when start using a new Mac(Intel)
 - [ ]	[Lulu](https://www.objective-see.com/products/lulu.html)
 - [ ]	[Maccy](https://maccy.app)
 - [ ]	[Magnet](https://apps.apple.com/us/app/magnet/id441258766?mt=12)
-- [ ]	[NightOw](https://nightowl.kramser.xyz/)
+- [ ]	[NightOwl](https://nightowl.kramser.xyz/)
 - [ ]	 Numbers
 - [ ]	[OBS](https://obsproject.com/)
 - [ ]	Office 🔑
