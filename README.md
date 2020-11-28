@@ -2,7 +2,7 @@
 First things to do when start using a new Mac(Intel)
 
 ## 需要做的准备
-- [ ] 	保留屏幕垫纸
+- [ ] 	[保留屏幕垫纸](https://www.ifanr.com/574157)（[网页快照](https://web.archive.org/web/20180605044725/https://www.ifanr.com/574157)）
 - [ ]		保留包装盒（及所有内含物品）
 - [ ] 	准备好 Time Machine 硬盘
 - [ ]		准备好1Password 记录下每个密码（开机密码 登录密码 FileVault 密码 磁盘加密密码）
