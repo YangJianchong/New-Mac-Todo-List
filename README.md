@@ -52,7 +52,7 @@ First things to do when start using a new Mac(Intel)
 - [ ]	Parallels Desktop 🔑
 - [ ]	Telegram
 - [ ]	[TripMode](https://tripmode.ch)
-- [ ]	[Turboboost Switcher Pro](https://gumroad.com/l/YeBQUF) 🔑
+- [ ]	[Turboboost Switcher Pro for Intel Mac](https://gumroad.com/l/YeBQUF) 🔑
 - [ ]	[Vanilla](https://matthewpalmer.net/vanilla/)
 - [ ]	VS Code
 - [ ]	[shadowsocksX-NG-R8](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)
