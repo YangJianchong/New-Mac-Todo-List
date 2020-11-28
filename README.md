@@ -32,7 +32,6 @@ First things to do when start using a new Mac(Intel)
 - [ ]	CotEditor
 - [ ]	[DriveDX](https://binaryfruit.com/drivedx) 🔑
 - [ ]	[Encrypto](https://apps.apple.com/cn/app/encrypto-secure-your-files/id935235287?l=en&mt=12) 
-- [ ]	[eZip](https://ezip.awehunt.com/?locale=zh-CN)
 - [ ]	[FDM](https://www.freedownloadmanager.org/download-fdm-for-mac.htm)
 - [ ]	[Google Earth Pro](https://www.google.com/earth/versions/#earth-pro)
 - [ ]	[IINA](https://iina.io/)
@@ -43,6 +42,7 @@ First things to do when start using a new Mac(Intel)
 - [ ]	[Keka](https://www.keka.io/)
 - [ ]	[Lulu](https://www.objective-see.com/products/lulu.html)
 - [ ]	[Maccy](https://maccy.app)
+- [ ]	[MacZip](https://ezip.awehunt.com/?locale=zh-CN)（原 eZip）
 - [ ]	[Magnet](https://apps.apple.com/us/app/magnet/id441258766?mt=12)
 - [ ]	[NightOwl](https://nightowl.kramser.xyz/)
 - [ ]	 Numbers
