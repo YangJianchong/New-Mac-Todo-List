@@ -13,7 +13,6 @@ First things to do when start using a new Mac(Intel)
 - [ ] Touch ID/Face ID（希望会有）
 - [ ] 设置 Hot Corners...
 <img src="images/Screen_Shot_2020-11-28_at_12.50.27_AM.png" width="694" >
-![Hot Corners...-w1388](https://github.com/YangJianchong/New-MacBook-Todo-List/blob/main/Screen%20Shot%202020-11-28%20at%2012.50.27%20AM.png?raw=true)
 - [ ] 更改屏幕快照存储路径（命令行 或 ⌘ + shift + 5）
 - [ ] 添加音频输出 Utilities > Audio MIDI Setup.app
 
