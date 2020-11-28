@@ -7,21 +7,21 @@ First things to do when start using a new Mac(Intel)
 - [ ] 	准备好 Time Machine 硬盘
 - [ ]		准备好1Password 记录下每个密码（开机密码 登录密码 FileVault 密码 磁盘加密密码）
 
-##设置
+## 设置
 - [ ] 为自己的每个 Apple ID 创建用户
-- [ ]设置至少一个管理员账户
-- [ ]Touch ID/Face ID（希望会有）
-- [ ]设置 Hot Corners...
-- [ ]更改屏幕快照存储路径（命令行 或 ⌘ + shift + 5）
-- [ ]添加音频输出 Utilities > Audio MIDI Setup.app
+- [ ] 设置至少一个管理员账户
+- [ ] Touch ID/Face ID（希望会有）
+- [ ] 设置 Hot Corners...
+- [ ] 更改屏幕快照存储路径（命令行 或 ⌘ + shift + 5）
+- [ ] 添加音频输出 Utilities > Audio MIDI Setup.app
 
-##[Homebrew](https://brew.sh) & Pakages
-- [ ]youtube-dl
-- [ ]ffmpeg
-- [ ]aria2
-- [ ]casks
+## [Homebrew](https://brew.sh) & Pakages
+- [ ] youtube-dl
+- [ ] ffmpeg
+- [ ] aria2
+- [ ] casks
 
-##Applications
+## Applications
 - [ ]	1Password
 - [ ]	[Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) 
 - [ ]	[Bartender](https://www.macbartender.com/) 🔑
