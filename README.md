@@ -25,21 +25,27 @@ First things to do when start using a new Mac(Intel)
 - [ ] casks
 
 ## Applications
-- [ ]	1Password
+- [ ]	1Password 💲🔑
+- [ ]   [A Better Finder Rename 11](https://www.publicspace.net/ABetterFinderRename/index.html)💲🔑
 - [ ]	[Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) 
-- [ ]	[Bartender](https://www.macbartender.com/) 🔑
+- [ ]   [AppCleaner](https://freemacsoft.net/appcleaner/)
+- [ ]   [Backup and Sync from Google](https://photos.google.com/apps)
+- [ ]	[Bartender](https://www.macbartender.com/) 💲🔑
+- [ ]   [Beyond Compare](https://www.scootersoftware.com/) 💲
+- [ ]   [Brave](https://brave.com/download/)
 - [ ]	[Browserosaurus](https://browserosaurus.com/) / [Choosy](https://www.choosyosx.com)
-- [ ]	Chrome
+- [ ]	Google Chrome
+- [ ]   [ClashX Pro](https://github.com/yichengchen/clashX)
 - [ ]	CotEditor
-- [ ]	[DriveDX](https://binaryfruit.com/drivedx) 🔑
+- [ ]	[DriveDX](https://binaryfruit.com/drivedx) 💲🔑
 - [ ]	[Encrypto](https://apps.apple.com/cn/app/encrypto-secure-your-files/id935235287?l=en&mt=12) 
 - [ ]	[FDM](https://www.freedownloadmanager.org/download-fdm-for-mac.htm)
 - [ ]	[Google Earth Pro](https://www.google.com/earth/versions/#earth-pro)
 - [ ]	[IINA](https://iina.io/)
 - [ ]	[iMazing](https://imazing.com/) 🔑
-- [ ]	[Intel Power Gadget (?)](https://software.intel.com/en-us/articles/intel-power-gadget)
+- [ ]	[Intel Power Gadget(R)](https://software.intel.com/en-us/articles/intel-power-gadget)
 - [ ]	[iPreview](https://findergg.com)
-- [ ]	[iStat Menus](https://bjango.com/mac/istatmenus/) 🔑
+- [ ]	[iStat Menus](https://bjango.com/mac/istatmenus/) 💲🔑
 - [ ]	[Keka](https://www.keka.io/)
 - [ ]	[Lulu](https://www.objective-see.com/products/lulu.html)
 - [ ]	[Maccy](https://maccy.app)
@@ -48,17 +54,16 @@ First things to do when start using a new Mac(Intel)
 - [ ]	[NightOwl](https://nightowl.kramser.xyz/)
 - [ ]	 Numbers
 - [ ]	[OBS](https://obsproject.com/)
-- [ ]	Office 🔑
+- [ ]	Microsoft 365 💲🔑
 - [ ]	 Pages
-- [ ]	Parallels Desktop 🔑
+- [ ]	Parallels Desktop 💲🔑
+- [ ]	[shadowsocksX-NG-R8](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)
 - [ ]	Telegram
 - [ ]	[TripMode](https://tripmode.ch)
 - [ ]	[Turboboost Switcher Pro for Intel Mac](https://gumroad.com/l/YeBQUF) 🔑
 - [ ]	[Vanilla](https://matthewpalmer.net/vanilla/)
-- [ ]	VS Code
-- [ ]	[shadowsocksX-NG-R8](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)
-- [ ]	 Xcode
-
+- [ ]	Visual Studio Code
+- [ ]	 Xcode 
 
 ## 推荐阅读
 * [macOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide#verifying-installation-integrity)
