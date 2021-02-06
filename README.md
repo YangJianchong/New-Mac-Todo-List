@@ -60,6 +60,7 @@ First things to do when start using a new Mac(Intel)
 - [ ]	 Xcode
 
 
-
+## 推荐阅读
+* [macOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide#verifying-installation-integrity)
 
 
