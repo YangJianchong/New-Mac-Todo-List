@@ -67,5 +67,6 @@ First things to do when start using a new Mac(Intel)
 
 ## 推荐阅读
 * [macOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide#verifying-installation-integrity)
+* [“停用Google Analytics（分析）”浏览器插件](https://tools.google.com/dlpage/gaoptout)
 
 
