@@ -1,5 +1,5 @@
 # New-MacBook-Todo-List
-First things to do when start using a new Mac(Intel)
+First things to do when start using a new Mac <del>(Intel)</del>
 
 ## 需要做的准备
 - [ ] 	[保留屏幕垫纸](https://www.ifanr.com/574157)（[网页快照](https://web.archive.org/web/20180605044725/https://www.ifanr.com/574157)）
@@ -68,5 +68,5 @@ First things to do when start using a new Mac(Intel)
 ## 推荐阅读
 * [macOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide#verifying-installation-integrity)
 * [“停用Google Analytics（分析）”浏览器插件](https://tools.google.com/dlpage/gaoptout)
-
+* [🔗 Link-Layer MAC spoofing GUI for macOS](https://github.com/halo/LinkLiar/)
 
