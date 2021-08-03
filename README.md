@@ -10,7 +10,7 @@ First things to do when start using a new Mac <del>(Intel)</del>
 ## 设置
 - [ ] 为自己的每个 Apple ID 创建用户
 - [ ] 设置至少一个管理员账户
-- [ ] Touch ID/Face ID（希望会有）
+- [ ] Touch ID / Face ID（希望会有）
 - [ ] 设置 Hot Corners...
 <img src="images/Screen_Shot_2020-11-28_at_12.50.27_AM.png" width="694" >
 
@@ -24,18 +24,21 @@ First things to do when start using a new Mac <del>(Intel)</del>
 - [ ] aria2
 - [ ] casks
 
+## Shell
+- [ ] [fish](https://fishshell.com/)
+
 ## Applications
 - [ ]	1Password 💲🔑
-- [ ]   [A Better Finder Rename 11](https://www.publicspace.net/ABetterFinderRename/index.html)💲🔑
+- [ ] [A Better Finder Rename 11](https://www.publicspace.net/ABetterFinderRename/index.html)💲🔑
 - [ ]	[Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) 
-- [ ]   [AppCleaner](https://freemacsoft.net/appcleaner/)
-- [ ]   [Backup and Sync from Google](https://photos.google.com/apps)
+- [ ] [AppCleaner](https://freemacsoft.net/appcleaner/)
+- [ ] [Backup and Sync from Google](https://photos.google.com/apps)
 - [ ]	[Bartender](https://www.macbartender.com/) 💲🔑
-- [ ]   [Beyond Compare](https://www.scootersoftware.com/) 💲
-- [ ]   [Brave](https://brave.com/download/)
+- [ ] [Beyond Compare](https://www.scootersoftware.com/) 💲
+- [ ] [Brave](https://brave.com/download/)
 - [ ]	[Browserosaurus](https://browserosaurus.com/) / [Choosy](https://www.choosyosx.com)
 - [ ]	Google Chrome
-- [ ]   [ClashX Pro](https://github.com/yichengchen/clashX)
+- [ ] [ClashX Pro](https://github.com/yichengchen/clashX)
 - [ ]	CotEditor
 - [ ]	[DriveDX](https://binaryfruit.com/drivedx) 💲🔑
 - [ ]	[Encrypto](https://apps.apple.com/cn/app/encrypto-secure-your-files/id935235287?l=en&mt=12) 
