@@ -5,10 +5,10 @@ First things to do when start using a new Mac <del>(Intel)</del>
 - [ ] [保留屏幕垫纸(笔记本)](https://www.ifanr.com/574157)（[网页快照](https://web.archive.org/web/20180605044725/https://www.ifanr.com/574157)）
 - [ ]	保留包装盒（及所有内含物品）
 - [ ] 准备好 Time Machine 硬盘
-- [ ]	准备好 1Password 记录下每个密码（开机密码、登录密码、FileVault 密码、磁盘加密密码等）
+- [ ]	准备好需要用到的密码（开机密码、登录密码、FileVault 密码、磁盘加密密码等）
 
 ## 设置
-- [ ] 为自己的每个 Apple ID 创建用户
+- [ ] 为自己的每个 [Apple ID](https://appleid.apple.com/#!&page=signin) 创建用户
 - [ ] 设置至少一个管理员账户
 - [ ] Touch ID / Face ID（希望会有）
 - [ ] 设置 Hot Corners...
@@ -69,6 +69,7 @@ First things to do when start using a new Mac <del>(Intel)</del>
 - [ ]	 Xcode 
 
 ## 推荐阅读
+* [THE ECLECTIC LIGHT COMPANY](https://eclecticlight.co/)
 * [macOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide#verifying-installation-integrity)
 * [“停用Google Analytics（分析）”浏览器插件](https://tools.google.com/dlpage/gaoptout)
 * [🔗 Link-Layer MAC spoofing GUI for macOS](https://github.com/halo/LinkLiar/)
